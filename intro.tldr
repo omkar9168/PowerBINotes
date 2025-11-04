@@ -34,24 +34,491 @@
 	},
 	"records": [
 		{
+			"x": -44.4168802368132,
+			"y": 755.1896275711892,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qns5RZ9_XK_Mg71rm0OCo",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 891.9792858598622,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1.1487717100684023,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "if you want to seperate the first name and last name from costumer name you have to click on Add column and then click on Extract and then Text before dekimeter and add blank space to get first  name seperate column"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aZ16d",
+			"typeName": "shape"
+		},
+		{
+			"x": 152.75906608613843,
+			"y": -421.5328271208297,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:u2WY9CEq2WwivNslRVPJt",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 102.45000457763672,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Manage"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aE3lp",
+			"typeName": "shape"
+		},
+		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 1408.418492837992,
-			"y": 305.3951146611648,
-			"lastActivityTimestamp": 1762152384812,
+			"x": 233.12571628040473,
+			"y": 958.6713403337723,
+			"lastActivityTimestamp": 1762181339855,
 			"meta": {}
 		},
 		{
-			"x": 1486.3498808416937,
-			"y": 1561.176957180405,
-			"z": 0.22758297132959723,
+			"x": 316.150157645823,
+			"y": -107.82883539466678,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:6ZqjvFqwFLu7uV3e4bUvW",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"points": [
+							{
+								"x": 0,
+								"y": 0,
+								"z": 0.5
+							},
+							{
+								"x": -1.42,
+								"y": 0,
+								"z": 0.5
+							},
+							{
+								"x": -2.36,
+								"y": 0.94,
+								"z": 0.5
+							},
+							{
+								"x": -3.31,
+								"y": 1.89,
+								"z": 0.5
+							},
+							{
+								"x": -4.25,
+								"y": 2.83,
+								"z": 0.5
+							},
+							{
+								"x": -5.19,
+								"y": 4.72,
+								"z": 0.5
+							},
+							{
+								"x": -6.14,
+								"y": 5.67,
+								"z": 0.5
+							},
+							{
+								"x": -7.08,
+								"y": 6.61,
+								"z": 0.5
+							},
+							{
+								"x": -8.03,
+								"y": 6.61,
+								"z": 0.5
+							},
+							{
+								"x": -8.03,
+								"y": 9.44,
+								"z": 0.5
+							},
+							{
+								"x": -8.03,
+								"y": 10.39,
+								"z": 0.5
+							},
+							{
+								"x": -8.97,
+								"y": 11.33,
+								"z": 0.5
+							},
+							{
+								"x": -10.86,
+								"y": 13.22,
+								"z": 0.5
+							},
+							{
+								"x": -11.81,
+								"y": 16.06,
+								"z": 0.5
+							},
+							{
+								"x": -12.75,
+								"y": 17,
+								"z": 0.5
+							},
+							{
+								"x": -12.75,
+								"y": 18.89,
+								"z": 0.5
+							},
+							{
+								"x": -13.69,
+								"y": 19.83,
+								"z": 0.5
+							},
+							{
+								"x": -14.64,
+								"y": 19.83,
+								"z": 0.5
+							},
+							{
+								"x": -14.64,
+								"y": 21.72,
+								"z": 0.5
+							},
+							{
+								"x": -16.53,
+								"y": 24.56,
+								"z": 0.5
+							},
+							{
+								"x": -18.42,
+								"y": 27.39,
+								"z": 0.5
+							},
+							{
+								"x": -21.25,
+								"y": 31.17,
+								"z": 0.5
+							},
+							{
+								"x": -23.14,
+								"y": 33.06,
+								"z": 0.5
+							},
+							{
+								"x": -26.92,
+								"y": 34.94,
+								"z": 0.5
+							},
+							{
+								"x": -27.86,
+								"y": 34.94,
+								"z": 0.5
+							},
+							{
+								"x": -28.81,
+								"y": 37.78,
+								"z": 0.5
+							},
+							{
+								"x": -29.75,
+								"y": 38.72,
+								"z": 0.5
+							}
+						]
+					}
+				],
+				"color": "red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aH01r",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:6VOyHJBhycOWGhMZ_pmJ6",
+			"type": "arrow",
+			"fromId": "shape:t-YsAnSBLWm0vqdrgObQt",
+			"toId": "shape:88k4uFzqPk1EG3bllrS7a",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.8882779244351093,
+					"y": 0.04849920171039294
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": 483.7912773967243,
+			"y": -15.272027397654597,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:JrA4-b_iurSNSsoHrjvKs",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "grey",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": -143.1751144520706,
+					"y": -78.84681416062705
+				},
+				"end": {
+					"x": -73.6676116713636,
+					"y": -76.50097580823444
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"text": "",
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aFANM0ZX",
+			"typeName": "shape"
+		},
+		{
+			"x": 1153.596983479922,
+			"y": 67.88412269296043,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:sZFQsWLgDQ1fUz9nBTPI3",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "light-red",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 3.033510377353229,
+					"y": 100.10237099913662
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"text": "",
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aRAkS",
+			"typeName": "shape"
+		},
+		{
+			"x": 509.5045378057207,
+			"y": 52.56266775884521,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:OniGQgxTzfnbjyz1o0Ssr",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "m",
+				"w": 89.2750015258789,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.0705982414197697,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "publish"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aP3BB",
+			"typeName": "shape"
+		},
+		{
+			"x": 12.660055213541838,
+			"y": 245.3154048945122,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:YuQHsydGBDi78Jm6TwZbN",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 464.5625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1) Automated dashboard"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2) ERP , CRM"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3) to find revenue , KPI management"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "4) self service"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aU6zs",
+			"typeName": "shape"
+		},
+		{
+			"x": 766.6171659262875,
+			"y": -68.81979266179493,
+			"z": 0.44771512162761906,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
 		},
 		{
-			"x": 363.1095242486553,
-			"y": -45.29999542236328,
+			"x": 380.1097631121505,
+			"y": -1194.422324028805,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -101,10 +568,312 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": null,
+			"x": 796.6666063119911,
+			"y": 66.71856094488709,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:lxSDLc2HOAktZc183gPkc",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "m",
+				"w": 76.20000457763672,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.0705982414197697,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "online"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aQ6qJ",
+			"typeName": "shape"
+		},
+		{
+			"x": 307.6499751647609,
+			"y": -280.80875674065203,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Mev2OWau8TL1qdpqLeU-v",
+			"type": "text",
+			"props": {
+				"color": "grey",
+				"size": "m",
+				"w": 853.1500244140625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Power Bi Desktop is used for ---> Report building / Modeling / On PC"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aI6kk",
+			"typeName": "shape"
+		},
+		{
+			"x": 374.7064699017551,
+			"y": -409.1106692258381,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:mizYcpTNLHk5_ZS-_Wuww",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": -101.05691842171507,
+					"y": 2.8333641368710687
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"text": "",
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aD9bF",
+			"typeName": "shape"
+		},
+		{
+			"x": 264.67723771797864,
+			"y": -148.4405021123863,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:2rDPfCHc2NDCoME8nyj1B",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "grey",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 2,
+					"y": 0
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"text": "",
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aFJWb",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:jmDE30C7jPWO8_xJ5EvrT",
+			"type": "arrow",
+			"fromId": "shape:DbXGY5jSTzFiP8DceLxIq",
+			"toId": "shape:88k4uFzqPk1EG3bllrS7a",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.7314732259949986,
+					"y": 0.344671054315283
+				},
+				"snap": "none",
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": 44.38627534700095,
+			"y": -271.3641675848724,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:88k4uFzqPk1EG3bllrS7a",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 335.1025990556706,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 0.8717403474237462,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1) Power Bi Desktop"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2) Power Bi Service"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3) Power Bi Mobile"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "4) Power Bi Gateway "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aF1E7",
+			"typeName": "shape"
+		},
+		{
+			"x": 331.733696426793,
+			"y": -225.08573656523157,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7c5u3_cRbhHWVLCBxYWlj",
+			"type": "text",
+			"props": {
+				"color": "grey",
+				"size": "m",
+				"w": 579.0750122070312,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Online / Report service / schedule / Dashboard"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aJBGi",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": "shape:sVGF-N6aE4flQkqLszEgi",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:41iQ01CxWYYVp4KBMuN2X"
+				"shape:sVGF-N6aE4flQkqLszEgi"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -116,8 +885,160 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 736.4734223579353,
-			"y": 77.42550767356454,
+			"x": 517.7917010814452,
+			"y": -538.501301072622,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dcQzor_4aAfXq-pv3e0xT",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": -44.00580833829415,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 0.47232943598771726,
+					"y": 128.44626120024623
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"text": "",
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aB59X",
+			"typeName": "shape"
+		},
+		{
+			"x": 214.253346152027,
+			"y": 24.25091995846725,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:n58XMynTCFGCluf0Fc6QJ",
+			"type": "text",
+			"props": {
+				"color": "light-red",
+				"size": "m",
+				"w": 987.0250244140625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.0705982414197697,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Power Bi Desktop  -------------->  Power Bi Service --------> Dashboard shade"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aNB4l",
+			"typeName": "shape"
+		},
+		{
+			"x": 50.42525693144859,
+			"y": -545.395669603852,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Y12NXkc3K195lP-clFswy",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 5.247222638521025,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 116.21691284121493,
+					"y": -1.6368640835128994
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"text": "",
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a73l1",
+			"typeName": "shape"
+		},
+		{
+			"x": -6.312281295637376,
+			"y": 1001.4374614165461,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:sVGF-N6aE4flQkqLszEgi",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 266.1625061035156,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "youtube stop 2:03:00"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aa2hT",
+			"typeName": "shape"
+		},
+		{
+			"x": 753.4736612214306,
+			"y": -1071.6968209328772,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -229,6 +1150,628 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 662.0072484911864,
+			"y": 667.3951497580241,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:hgivSTETrwRlEVf-x9Eyr",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 347.20001220703125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "u can trim or add values ....."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aY5Kq",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:hjBLtJnS_PsqOS6pkG-Lv",
+			"type": "arrow",
+			"fromId": "shape:t-YsAnSBLWm0vqdrgObQt",
+			"toId": "shape:88k4uFzqPk1EG3bllrS7a",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.7638040891098162,
+					"y": 0.08193799159310952
+				},
+				"snap": "none",
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": 728.4056843777578,
+			"y": -114.58428303000642,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:GOYg5n0GvK_t5lRZp_9F6",
+			"type": "text",
+			"props": {
+				"color": "grey",
+				"size": "m",
+				"w": 93.0999984741211,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "not imp"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aM4O7",
+			"typeName": "shape"
+		},
+		{
+			"x": -26.106571438889205,
+			"y": 663.6906197459986,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ptOjoEsEAFLdt4ugrhqrX",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 673.5125122070312,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "u will get the information about the data from tables"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aX8VG",
+			"typeName": "shape"
+		},
+		{
+			"x": -52.66039227379085,
+			"y": -560.6304451115525,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:FDGQu-MWwJU4DaWulUSZS",
+			"type": "text",
+			"props": {
+				"color": "light-violet",
+				"size": "m",
+				"w": 91.42209819034564,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 0.8665601724203378,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Prepare "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a63rm",
+			"typeName": "shape"
+		},
+		{
+			"x": 806.295403567429,
+			"y": 624.793231264813,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Gi7Fw91olZbeeGATpTtau",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 490.6875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": " column quality and column distribution"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aW898",
+			"typeName": "shape"
+		},
+		{
+			"x": 42.36057374144036,
+			"y": 25.262077227016448,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qTVf_zdRA7viyu8g_RDXe",
+			"type": "text",
+			"props": {
+				"color": "light-red",
+				"size": "m",
+				"w": 152.7624969482422,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.0705982414197697,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Excel ----->"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aT2S6",
+			"typeName": "shape"
+		},
+		{
+			"x": 259.56045981469754,
+			"y": -545.4579139839327,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:mV47AFnsImgnLygna10O2",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 105.98658256557711,
+					"y": 0.8184476520493023
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"text": "",
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a98au",
+			"typeName": "shape"
+		},
+		{
+			"x": 344.9560744082507,
+			"y": -173.14059528593862,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:e0u-rcSZwcP1vCmOqWKmM",
+			"type": "text",
+			"props": {
+				"color": "grey",
+				"size": "m",
+				"w": 538.7250366210938,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "To view DashBoard / Report on mobile view"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aK300",
+			"typeName": "shape"
+		},
+		{
+			"x": 249.64304054542595,
+			"y": 57.618338386473624,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:529-buq2KiX4Jo8T0FOXn",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "m",
+				"w": 116.6624984741211,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.0705982414197697,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "(Reports)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aO5xD",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:ui4qvbtmtXaHKupWwl4zY",
+			"type": "arrow",
+			"fromId": "shape:2rDPfCHc2NDCoME8nyj1B",
+			"toId": "shape:88k4uFzqPk1EG3bllrS7a",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.754104854841862,
+					"y": 0.6217349749224076
+				},
+				"snap": "none",
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": 289.7053296265483,
+			"y": -102.16210712092465,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5S3QCD7-yaNNV04K4vGAX",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"points": [
+							{
+								"x": 0,
+								"y": 0,
+								"z": 0.5
+							},
+							{
+								"x": 2.36,
+								"y": 0,
+								"z": 0.5
+							},
+							{
+								"x": 2.36,
+								"y": 0.94,
+								"z": 0.5
+							},
+							{
+								"x": 3.31,
+								"y": 1.89,
+								"z": 0.5
+							},
+							{
+								"x": 4.25,
+								"y": 2.83,
+								"z": 0.5
+							},
+							{
+								"x": 4.25,
+								"y": 4.72,
+								"z": 0.5
+							},
+							{
+								"x": 6.14,
+								"y": 4.72,
+								"z": 0.5
+							},
+							{
+								"x": 6.14,
+								"y": 6.61,
+								"z": 0.5
+							},
+							{
+								"x": 7.08,
+								"y": 7.56,
+								"z": 0.5
+							},
+							{
+								"x": 8.03,
+								"y": 8.5,
+								"z": 0.5
+							},
+							{
+								"x": 8.97,
+								"y": 8.5,
+								"z": 0.5
+							},
+							{
+								"x": 9.92,
+								"y": 11.33,
+								"z": 0.5
+							},
+							{
+								"x": 10.86,
+								"y": 12.28,
+								"z": 0.5
+							},
+							{
+								"x": 11.81,
+								"y": 13.22,
+								"z": 0.5
+							},
+							{
+								"x": 14.64,
+								"y": 16.06,
+								"z": 0.5
+							},
+							{
+								"x": 15.58,
+								"y": 16.06,
+								"z": 0.5
+							},
+							{
+								"x": 16.53,
+								"y": 17,
+								"z": 0.5
+							},
+							{
+								"x": 17.47,
+								"y": 18.89,
+								"z": 0.5
+							},
+							{
+								"x": 18.42,
+								"y": 19.83,
+								"z": 0.5
+							},
+							{
+								"x": 19.36,
+								"y": 20.78,
+								"z": 0.5
+							},
+							{
+								"x": 20.31,
+								"y": 20.78,
+								"z": 0.5
+							},
+							{
+								"x": 21.25,
+								"y": 21.72,
+								"z": 0.5
+							},
+							{
+								"x": 22.19,
+								"y": 22.67,
+								"z": 0.5
+							},
+							{
+								"x": 24.08,
+								"y": 24.56,
+								"z": 0.5
+							},
+							{
+								"x": 24.08,
+								"y": 25.5,
+								"z": 0.5
+							},
+							{
+								"x": 25.97,
+								"y": 26.44,
+								"z": 0.5
+							},
+							{
+								"x": 26.92,
+								"y": 27.39,
+								"z": 0.5
+							},
+							{
+								"x": 27.86,
+								"y": 27.39,
+								"z": 0.5
+							},
+							{
+								"x": 28.81,
+								"y": 28.33,
+								"z": 0.5
+							},
+							{
+								"x": 29.75,
+								"y": 29.28,
+								"z": 0.5
+							}
+						]
+					}
+				],
+				"color": "red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aG5gd",
+			"typeName": "shape"
+		},
+		{
+			"x": 1067.650582810239,
+			"y": 190.07693197336164,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:hycCHsz6ubTcKMu1bf78H",
+			"type": "text",
+			"props": {
+				"color": "light-red",
+				"size": "m",
+				"w": 188.8249969482422,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.0705982414197697,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "View on mobile"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aS7UK",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:j5LE8HHFG9iHwppvrcfmg",
+			"type": "arrow",
+			"fromId": "shape:2rDPfCHc2NDCoME8nyj1B",
+			"toId": "shape:88k4uFzqPk1EG3bllrS7a",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.94485693488604,
+					"y": 0.6217349749224076
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
+		},
+		{
 			"meta": {},
 			"id": "page:page",
 			"name": "Page 1",
@@ -245,10 +1788,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:size": "s",
-				"tldraw:color": "red"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -291,8 +1831,98 @@
 			"typeName": "instance"
 		},
 		{
-			"x": 128.545150959761,
-			"y": 84.83753967285156,
+			"x": -23.25829363291416,
+			"y": 593.0698271680996,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:SbNTzPxluzTIybrVXq95n",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 837.3375244140625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "first step - add csv or excel file in Bi "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "second step - to view the file condition click on view and check on "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aV9XC",
+			"typeName": "shape"
+		},
+		{
+			"x": 377.53983403862605,
+			"y": -558.4791086753294,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:_C944VALEVJtafOBXQs5-",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 119.2750015258789,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Visualize "
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aA3dP",
+			"typeName": "shape"
+		},
+		{
+			"x": 145.54538982325624,
+			"y": -1064.28478893359,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -360,8 +1990,217 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 730.2726755512813,
-			"y": 375.7156544156993,
+			"x": 179.42118075778137,
+			"y": -560.5044500607046,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:r8fdmnnF0zhbBQmlzRT_g",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 68.20911889390173,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 0.8665601724203378,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Model"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a841d",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:oIY1tu85tDfNec1YMUgee",
+			"type": "arrow",
+			"fromId": "shape:DbXGY5jSTzFiP8DceLxIq",
+			"toId": "shape:88k4uFzqPk1EG3bllrS7a",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.9238418245284266,
+					"y": 0.3494479462013517
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
+		},
+		{
+			"x": 392.65116948223726,
+			"y": -427.19955539457163,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:anglYDbHMyr9RySa2tIzS",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 105.05000305175781,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Analysis"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aC1px",
+			"typeName": "shape"
+		},
+		{
+			"x": 446.95747156104255,
+			"y": -111.75088286495588,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:WXXZW59-47mCosfFY63gY",
+			"type": "text",
+			"props": {
+				"color": "grey",
+				"size": "m",
+				"w": 263.2250061035156,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Bridge - auto refresh"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aLBFc",
+			"typeName": "shape"
+		},
+		{
+			"x": 258.06603071315993,
+			"y": -203.2190075285502,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:DbXGY5jSTzFiP8DceLxIq",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "grey",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 2,
+					"y": 0
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"text": "",
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aFR7k",
+			"typeName": "shape"
+		},
+		{
+			"x": 267.5106018548496,
+			"y": -255.16414880784322,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:t-YsAnSBLWm0vqdrgObQt",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "grey",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 2,
+					"y": 0
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"text": "",
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aFjbK",
+			"typeName": "shape"
+		},
+		{
+			"x": 747.2729144147766,
+			"y": -773.4066741907425,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -423,8 +2262,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 122.40011596679688,
-			"y": 235.84996891021729,
+			"x": 139.40035483029214,
+			"y": -913.2723596962246,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
