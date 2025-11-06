@@ -114,9 +114,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 233.12571628040473,
-			"y": 958.6713403337723,
-			"lastActivityTimestamp": 1762181339855,
+			"x": 863.9756228683568,
+			"y": 1177.222358322782,
+			"lastActivityTimestamp": 1762241880691,
 			"meta": {}
 		},
 		{
@@ -509,9 +509,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 766.6171659262875,
-			"y": -68.81979266179493,
-			"z": 0.44771512162761906,
+			"x": 543.2471514733529,
+			"y": -770.4106620316663,
+			"z": 0.6017526174482904,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -870,12 +870,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:sVGF-N6aE4flQkqLszEgi",
+			"editingShapeId": "shape:F_nPqs3jEm9Dxq6jddgnP",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:sVGF-N6aE4flQkqLszEgi"
+				"shape:F_nPqs3jEm9Dxq6jddgnP"
 			],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:F_nPqs3jEm9Dxq6jddgnP",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -1009,7 +1009,7 @@
 			"props": {
 				"color": "black",
 				"size": "m",
-				"w": 266.1625061035156,
+				"w": 256.02500915527344,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -1025,7 +1025,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "youtube stop 2:03:00"
+									"text": "youtube stop -----> "
 								}
 							]
 						}
@@ -1788,7 +1788,9 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {},
+			"stylesForNextShape": {
+				"tldraw:color": "light-blue"
+			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -2045,6 +2047,129 @@
 				"terminal": "end"
 			},
 			"typeName": "binding"
+		},
+		{
+			"x": -70.62769681693288,
+			"y": 1137.092268219231,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:F_nPqs3jEm9Dxq6jddgnP",
+			"type": "text",
+			"props": {
+				"color": "light-blue",
+				"size": "m",
+				"w": 1379.9749755859375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "1) Design a Sematic MOdel , Star Schema Design , Create and Manage Relationship"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "2) Add measure to sematic Models , DAX Concept an Syntax, Calculated Measure Columns"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "3) Use DAX functions , Understand and manipulate filter context , Use DAX functions to Extend sematic models"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "4) Optimize Model performance , use variable to improve performance and Debug"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "5) Create Visual Calculations "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "abAq4",
+			"typeName": "shape"
 		},
 		{
 			"x": 392.65116948223726,
